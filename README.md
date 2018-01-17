@@ -21,7 +21,7 @@ __注：此项目纯属个人瞎搞，不用于任何商业用途。__
 
 >  如有问题请直接在 Issues 中提，或者您发现问题并有非常好的解决方案，欢迎 PR 👍
 
->  相关项目地址：[前端项目地址](https://github.com/bailicangdu/vue2-elm)  、 [后台管理系统地址](https://github.com/bailicangdu/back-manage)
+>  相关项目地址：[前端项目地址](https://github.com/lijiapeng0302/vue2-elem)  、 [后台管理系统地址](https://github.com/bailicangdu/back-manage)
 
 ## 技术栈
 
@@ -38,7 +38,7 @@ nodejs + express + mongodb + mongoose + es6/7 + vue + element-ui
 ```
 
 ```
-git clone https://github.com/bailicangdu/node-elm  
+git clone https://github.com/lijiapeng0302/node-elem.git 
 
 cd node-elm
 
